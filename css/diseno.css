@@ -534,7 +534,7 @@ Nuevos agregados para métricas
 }
 
 .grid-metricas .col-6:nth-child(2) {
-  border-left: 1px solid #9f9f9f;
+  border-left: 1px solid #444;
 }
 
 .grid-metricas .item-metrica .info .desc {
@@ -542,8 +542,8 @@ Nuevos agregados para métricas
 }
 
 .with-top-border {
-  border-top: 1px solid #9f9f9f;
+  border-top: 1px solid #444;
 }
 .with-bottom-border {
-  border-bottom: 1px solid #9f9f9f;
+  border-bottom: 1px solid #444;
 }
